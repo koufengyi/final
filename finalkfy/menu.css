@@ -1,0 +1,32 @@
+html{
+	background-color: #f3e8e2;
+
+}
+
+
+
+.text{
+	position:absolute;
+	align-items: center;
+	display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top:160px;
+	text-align: center;
+	font-family: Calibri;
+	font-weight: bold;
+
+
+
+}
+
+
+
+
+a{
+	text-decoration: none;
+	color:black;
+	font-size: 130px;
+
+
+}

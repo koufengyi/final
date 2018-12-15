@@ -1,0 +1,97 @@
+html{
+	min-width: 100%;
+	min-height: 100%;
+
+}
+body{
+	background-color: white;
+	background-image: url("img/1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 100%;
+	margin:0px;
+}
+
+
+
+.container img {
+    width: 13%;
+    height: auto;
+    position:absolute;
+    bottom: 17%;
+    left: 45%;
+
+}
+
+
+
+svg{
+	color:white;
+	stroke-width:2.5px;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+
+	
+}
+.navbar{
+
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: center;
+	margin-left: 2%;
+    margin-right: 2%;
+
+
+}
+
+.navbar__link{
+	font-size: 40px;
+	font-weight: 350;
+	opacity: 0.6;
+	
+}
+
+.menu{
+	margin-left: 2%;
+	opacity: 0.6;
+	
+}
+
+
+
+
+h6{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 45%;
+	align-items: center;
+	margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+.ripple {
+    background-position: center;
+    transition: background 0.8s;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+
+
+
+}
+.ripple:hover {
+  background: radial-gradient(circle, transparent 10%, white 0%) center/15000%;
+}
+
+
+
+
+
+
+
+

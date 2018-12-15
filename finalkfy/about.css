@@ -1,0 +1,27 @@
+html{
+	background-color: #f3e8e2;
+
+}
+.logo{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	align-items: center;
+	margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 25%;
+
+
+}
+
+.cha{
+	margin-left: 2%;
+
+}
+
+h2{
+	position: absolute;
+	bottom: 10px;
+	left: 40%;
+	
+}
